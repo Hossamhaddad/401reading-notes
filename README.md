@@ -6,4 +6,4 @@
 
 ## Table of content :
 
-1. [Java](https://hossamhaddad.github.io/401reading-notes/read1)
+1. [Java](https://hossamhaddad.github.io/401reading-notes/read-01)
