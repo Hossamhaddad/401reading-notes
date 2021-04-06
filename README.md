@@ -7,3 +7,5 @@
 ## Table of content :
 
 1. [Java](https://hossamhaddad.github.io/401reading-notes/read-01)
+2. [Java Loops and Imports](https://hossamhaddad.github.io/401reading-notes/read-02)
+3.
