@@ -11,3 +11,4 @@
 3. [Java Maps and Primitives](https://hossamhaddad.github.io/401reading-notes/read-03)
 4. [Object Oriented Programming](https://hossamhaddad.github.io/401reading-notes/read-04)
 5. [Linked Lists](https://hossamhaddad.github.io/401reading-notes/read-05)
+6. [Inheritance and Interfaces](https://hossamhaddad.github.io/401reading-notes/read-05)
