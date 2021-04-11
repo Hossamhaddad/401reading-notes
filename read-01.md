@@ -54,7 +54,13 @@
 
 ## Control Flow Statements
 
-### The statements inside your source files are generally executed from top to bottom, in the order that they appear. Control flow statements, however, break up the flow of execution by employing decision making, looping, and branching, enabling your program to conditionally execute particular blocks of code.
+## Java compiler executes the java code from top to bottom. The statements are executed according to the order in which they appear.
+
+## There are 3 types of control flow statements supported by the Java programming language.
+
+1. ### Decision-making statements
+2. ### Looping statements
+3. ### Branching statements
 
 ### The if-then statement is the most basic of all the control flow statements. It tells your program to execute a certain section of code only if a particular test evaluates to true.
 
