@@ -15,3 +15,6 @@
 7. [SOLID Principles](https://hossamhaddad.github.io/401reading-notes/read-07)
 8. [WRRC and HTTP](https://hossamhaddad.github.io/401reading-notes/read-08)
 9. [Stacks and Queues](https://hossamhaddad.github.io/401reading-notes/read-09)
+
+
+
