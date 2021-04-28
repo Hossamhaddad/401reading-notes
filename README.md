@@ -22,3 +22,4 @@
 14. [Spring Security](https://hossamhaddad.github.io/401reading-notes/read-14)
 15. [Spring Authorization](https://hossamhaddad.github.io/401reading-notes/read-15)
 16. [Web App Security](https://hossamhaddad.github.io/401reading-notes/read-16)
+17. [ Real time messaging with websockets](https://hossamhaddad.github.io/401reading-notes/read-17)
