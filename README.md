@@ -27,3 +27,4 @@
 19. [RecyclerView](https://hossamhaddad.github.io/401reading-notes/read-20)
 20. [Tasks and Back Stack](https://hossamhaddad.github.io/401reading-notes/read-19)
 21. [Room](https://hossamhaddad.github.io/401reading-notes/read-21)
+22. [HashTable](https://hossamhaddad.github.io/401reading-notes/read-22)
