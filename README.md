@@ -29,3 +29,4 @@
 21. [Room](https://hossamhaddad.github.io/401reading-notes/read-21)
 22. [HashTable](https://hossamhaddad.github.io/401reading-notes/read-22)
 23. [Espresso](https://hossamhaddad.github.io/401reading-notes/read-23)
+24. [GraphQL](https://hossamhaddad.github.io/401reading-notes/read-25)
