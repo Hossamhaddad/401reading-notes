@@ -31,6 +31,9 @@
 23. [Espresso](https://hossamhaddad.github.io/401reading-notes/read-23)
 24. [Serverless](https://hossamhaddad.github.io/401reading-notes/read-24)
 25. [GraphQL](https://hossamhaddad.github.io/401reading-notes/read-25)
+26. [Graph](https://hossamhaddad.github.io/401reading-notes/read-26)
+27. [Cognito](https://hossamhaddad.github.io/401reading-notes/read-27)
+
 
 
 
