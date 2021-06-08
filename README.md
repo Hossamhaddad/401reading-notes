@@ -35,4 +35,7 @@
 27. [Amazon S3](https://hossamhaddad.github.io/401reading-notes/read-28)
 28. [Android Monetization](https://hossamhaddad.github.io/401reading-notes/read-29)
 29. [Amplify SNS](https://hossamhaddad.github.io/401reading-notes/read-30)
+30. [Intent Filter](https://hossamhaddad.github.io/401reading-notes/read-31)
+31. [ Location](https://hossamhaddad.github.io/401reading-notes/read-32)
+32. [ Ethics](https://hossamhaddad.github.io/401reading-notes/read-33)
 
